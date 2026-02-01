@@ -19,6 +19,8 @@ Pg = Fg x P
 
 Pg is partial pressure of the gas. Fg is the fraction of the gas, P is total pressure.
 
+![[Pasted image 20251229144952.png]]
+![[Pasted image 20251229145007.png]]
 ### Equivalent Air Depth
 
 This calculation allows for the use of any air dive table with any mixture of nitrox.
