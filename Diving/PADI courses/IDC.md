@@ -1212,3 +1212,521 @@ Always pay attention to, and take seriously, any reports of abuse a child makes 
 •
 
 Only photograph or video children with parental permission, and only use the images publically with specific permission to do so . It’s preferable to have permission in writing signed by both the child and the parents. Avoid using names and photos together in a way that would allow strangers to identify a child, except as specifically authorized by the child and parents.
+
+
+
+# Conducting and evaluating knowledge development
+
+## Knowledge development methods with the padi system
+
+1
+
+What types of learning are generally categorized as knowledge development in the PADI System?
+
+2
+
+In what five general ways does knowledge development occur in the PADI System?
+
+3
+
+By what four ways do you and your students assess knowledge development mastery?
+
+4
+
+What do you do if a student scores less than 100 percent on a quiz or exam and how else do you and students assess their knowledge development?
+
+5
+
+How do you document and track student knowledge development mastery?
+
+
+The PADI System generally categorizes learning that does not involve practicing motorskills or hands-on application as knowledge development. This is a useful division for discussing instructional situations, but realize that knowledge development, assessment and reinforcement occur across all training phases, as students practice and apply what they have learned or are learning.
+
+### Knowledge development options
+
+#### 5 general ways
+
+#### Independent student study
+Students use eLearning, manuals and videos for knowledge development. They can usually complete all independent study before the rest of the course, or complete study sections that precede the related practical application sessions and dives. Independent study sequencing follows general knowledge development requirements.
+
+#### Full teaching presentations
+As you’ve learned, with these your presentation becomes the primary method for knowledge development. Use these when independent study media are not available.
+
+#### Prescriptive teaching presentation
+These presentations review what students studied independently to provide remediation where needed, and to apply the material to individual student needs and interests.
+
+#### Student-instructor discussions
+Students continue to learn during normal interactions in instruction. Although not formal presentations, teaching involves guiding, reinforcing, correcting and adapting as students demonstrate and apply what they’ve studied.
+
+#### Briefings and debriefings
+As you’ll see, briefings and debriefings repeat and reinforce what students have studied based on their application of it.
+
+Knowledge development is ongoing and interactive throughout the entire training process.
+
+1. Checking over knowledge reviews for completeness and accuracy.  
+      
+2. Administering and scoring quizzes and exams.  
+      
+3. Asking and answering questions during presentations, briefings, debriefings and other interactions with students.  
+      
+4. Watching students apply what they’ve learned.
+
+Most eLearning media assist with assessment by administering and scoring knowledge reviews, quizzes and exams. There may be a paper-based, written Quick Review the student completes with you in person to verify learning and allow questions.  
+  
+Recall that exercises, quick quizzes and knowledge checks (including the ones you use studying here) are developmental. They allow learners to quickly assess their learning as they study.  
+  
+Knowledge development must usually precede the related practical application sessions or dives in which it is applied. There are some exceptions as listed in specific instructor guides, but completing knowledge development first is still preferred.
+
+
+What do you do if a student scores less than 100 percent on a quiz or exam and how else do you and students assess their knowledge development?
+
+Regardless of what knowledge development methods and assessments apply to a particular situation, you must reasonably establish that students have mastered learning objectives. As you learned in Learning, Instruction and the PADI System, in a performance-based process, students must demonstrate mastery of the objectives.
+
+With written assessments such as knowledge reviews and exams, unless all answers are correct, you need to review missed items until students demonstrate and acknowledge understanding and mastery. For some assessments, eLearning provides this remediation.  
+  
+With most PADI programs, a score below 75 percent on a quiz or exam requires the student to retake the entire quiz or exam after restudying.
+
+Most students want to learn what you’re teaching – otherwise, they wouldn’t be taking the course. They often recognize when they’ve forgotten or don’t understand something, and will simply ask for your help learning it. Usually, they only need reminders to help them recall key information.
+
+### Documentation
+
+PADI eLearning creates electronic records, or eRecords, that show what students have completed, as well as provide digital versions of required forms.  
+  
+Use Student Record Files to save signed paper Knowledge Reviews, quiz answer sheets as well as other paper documents such as releases and medical statements. Have student divers date and initial the appropriate locations on the record file as they complete course components.
+
+
+### Presentation types
+
+In the Introduction to Teaching Presentations section, you learned that how you develop and give a teaching presentation partly depends on the student media available. Recall that if there is little independent study media available in a language the student understands, your presentations provide the primary knowledge development. These are called full presentations, and deliver all the content as well as address remediation, student needs and interests, and local diving circumstances.
+
+With independent study media, your presentations are shorter and prescriptive because the media allow students to accomplish much of the learning on their own. You give prescriptive presentations, meaning they target areas where students have difficulty and need remediation. It also means your presentations adapt the material to local diving circumstances and student needs and interests.
+
+
+### Presentation components
+
+In Introduction to Teaching Presentations, you learned that presentations have three components: introduction, body and summary (tell them what you’re going to tell them, tell them, then tell them what you told them).  
+  
+Each component has elements that we’ll look at for knowledge development. Some elements apply to the entire presentation .
+
+
+### Introduction parts
+
+1. Contact
+
+This stimulates interest, creating a readiness to learn. You can do this in many ways depending upon the students and the subject. Be creative, but what you do should relate to what you will present.
+
+One method is to ask an interesting question, or questions, and get student responses.
+
+Another option is to tell a short story directly or indirectly related to the subject.
+
+Especially when students are new to a subject, you can show a relationship or analogy between something familiar and the subject.
+
+You can raise interest by showing or sharing something that is interesting or familiar that relates to the topic in an usual way.
+
+### Overview
+
+This is a short “road map” that gives students an idea of what you’re going to cover. It assists learning by helping them create a mental framework so they can focus on the material instead of where you’re headed. Usually, you simply state the main topics or subjects and the order in which you’ll cover them.
+
+### Conduct
+Tell the students what you want them to do during your presentation. This is typically very brief, such as to take notes or simply listen.  
+  
+Conduct may already be understood based on previous sessions or the situation, but address it if in doubt.
+
+### Value
+
+When students know why you’re presenting the information, they’re more motivated to learn it. Your contact usually implies value, but it’s important to make it clear and be specific, as appropriate for the subject.  
+  
+Use value to establish the need to know – people tend to tune out what they view as unimportant, so show how the subject makes diving more fun, safer, more comfortable, etc. Establishing an immediate reason to learn motivates students to pay attention because they will expect to need what you’re teaching soon.
+
+Make values positive, but realistic. When discussing negative subjects, don’t shy away from telling students that something can hurt or kill them if it’s true. They need to know this, but be realistic and stress how they avoid the hazard or risk by following proper procedures.  
+  
+For example, when explaining how important it is to never hold your breath, you might say, “This is important because failure to follow this rule can hurt or kill you, even when we go in the pool. But, it’s very easy to avoid, as you’ll learn.”
+
+### Interaction
+
+This means connecting with students to keep them thinking and engaged by having them do something related to what you’re teaching. You most readily do this with open-ended questions that connect with other parts of your introduction and by directing them to individuals: “Bill, why do you think this is important?” “Sungkyu, shake that soda bottle really hard and then open it.” Sungkyu smiles and refuses. “Don’t want to do that? Why not?”
+
+
+### Main content
+
+The body of your presentation is the main content, and typically – not always – includes the objectives. You’re also concerned with the scope and sequence of what you’re presenting along with its relationship to other parts of the course or subject. You also want to look at how the body material connects to the broader aspects of diving and how it relates to diving in the local environment.
+
+#### Objectives
+
+As you know, objectives state what students should be able to do after they complete learning. You find the objectives in the PADI materials. For knowledge development, recall that they’re commonly stated as questions students should be able to answer.
+
+rase with “you” construction when you present (for example, “What do you do when . . .”). It’s also acceptable to rephrase statement objectives as questions that students should be able to answer after they finish learning, or to rephrase question objectives as statements so they fit more naturally in your presentation, as long as they remain measurable and they are clearly understood to be objectives by students.
+
+The objective “What is the most important feature in my weight system?” within a presentation could be restated as, “By end of this session, you should be able to tell me what the most important feature in your weight system is.”
+
+Objectives don’t always have to be in your presentation body. It’s common and acceptable to include objectives in the introduction, which works well with shorter presentations. But, with longer presentations, it’s usually more effective to integrate them within the body.
+
+
+#### Scope of Material
+
+Your body needs to meet the learning objectives in a logical order that students can understand. Your presentation needs to be complete without overwhelming students with more than they can effectively learn, or presenting information in a confusing way. You do, however, adapt the material to specific student needs.  
+  
+Follow the content and sequence within the PADI materials you reference for the presentation. This keeps your presentation within the proper scope and following an appropriate sequence.
+
+#### Local Environment
+
+It also helps student absorb information when it’s applied to course activities that they’ll participate in at a local dive site or as it applies to diving in the local environment.
+
+
+#### Relating material
+
+You want to apply the information about the topic in realistic, relevant ways that show the relationship of the material to what students are learning elsewhere in the same course, and how it connects to continuing education courses. You also apply it to individual needs, interests, activities and equipment along with other aspects of diving and being a diver.  
+  
+These connections make the information more valuable by personalizing it. And, they help establish the mental frameworks that help students recall what they’re learning.
+
+While discussing buoyancy control during the Open Water Diver course, you say: “Being able to effortlessly stay at a constant depth is key while drift diving. Many divers who are going on our upcoming dive trip to Cozumel, Mexico, are taking both the Peak Performance Buoyancy course along with the Drift Diver course. Let me know if you want to come on that trip or sign up for one of these courses.” This connects dive travel with continuing education.
+
+To promote environmental activities during presentations, you need to connect the topic to conservation actions, research or education. This could be a Project AWARE Dive Against Debris survey, or any other beach or underwater cleanup.
+
+
+### Summary parts
+
+Your summary assists learning through repetition that reminds students of what they’re learning and why, ideally in a way that engages them with the material. It consists of value, overview, objectives, relationship reminders and interactions.
+
+#### Value
+
+As in the introduction, this motivates students to remember by stating where or when they will use what they’re learning, ideally, soon. For example, “Tomorrow, at the lake we will use this to . . .” You can repeat the value from the introduction, or state another value if one applies.
+
+#### Overview
+
+This simply reviews what was covered and the sequence, which can be as simple as restating the main topics as you presented them. Reviewing the overview helps students remember what they’re learning by reinforcing its sequence.
+
+#### Objectives
+
+Restating objectives reinforces learning, but also alerts students who may still not understand something. Restate the objective summarizing what they learned if the objective lends itself to doing so.
+
+#### Relationship Reminders
+
+These show students how what they’re learning relates to the bigger picture: other topics, PADI continuing education, owning dive gear, dive experiences or environmental activities. These may be reminders of what you said in the body, new relationship examples or both.  
+  
+Promote owning equipment, PADI courses, dive travel or other services your dive operation offers as normal extensions of what they’re learning applied to the diving lifestyle. These shouldn’t come across as advertisements interrupting your presentation, but as natural examples of what you’re teaching.
+
+#### Interactions
+
+As with the rest of the presentation, keep students engaged by asking questions or otherwise applying what they’ve learned. This can include having students answer the objectives as questions, as mentioned, but it can also relate to the value, continuing education, equipment, dive travel and environmental activities – applied in a personal way.
+
+
+### Overall handling
+
+#### Use appropriate Padi lesson guides
+
+This means referencing the Lesson Guides to help students mentally organize and remember, and using the Lesson Guides’ full functions by playing videos and additional information, if present. Simply having them up is helpful, but doesn’t necessarily benefit learning because it relies on students looking at them and making the connections themselves.
+
+If there are no Lesson Guides, write the outline points based on the instructor guide outline so you can reference them on a white board or project them from a mobile device or computer. You can even project the outline itself.
+
+#### Use PADI digital tools
+
+This alerts students to related digital resources they have to assist learning and diving.  
+  
+For example, when presenting about tying knots for search and recovery diving, have students access the knots in the tools section of the PADI app on their mobile devices.  
+  
+When discussing dive planning, have students reference My PADI Club for diver reports on conditions and points of interest at specific dive sites.
+
+#### Use of PADI materials or dive equipment
+
+This means making a relevant reference that connects to the subject and benefits learning. This is often effective for connecting concepts to another course.  
+  
+For example, when discussing proper weighting in the Underwater Naturalist course, you could reference the weighting guidelines in the Peak Performance Buoyancy Manual.  
+  
+An obvious example, if you’re presenting about a particular piece of equipment, is to have it there. It’s more effective to show than to simply tell about features and operation.
+
+
+#### Use of nondiving training aids
+
+By applying creativity, you can use everyday objects to benefit students’ learning by connecting familiar concepts with what they’re learning, by creating useful physical analogies, or by allowing you to demonstrate concepts.
+
+#### Use effective, fluid voice and gestures
+
+
+Integration means to merge elements in a normal, conversational way instead of as list. This helps connect concepts and makes your presentation more natural.  
+  
+This is clearer when you watch an unintegrated introduction and an integrated introduction in the following examples. With both, the presenter has already used a contact to introduce the topic – interacting with aquatic life – and because this is a short presentation, he includes the objectives in the introduction and will repeat them in the body.
+
+## Prescriptive Teaching presentations
+
+When student divers study with manuals and videos, you evaluate student knowledge reviews and score quizzes and exams to help you assess learning. The PADI eLearning system records assessments and overall student progress. You use eLearning Quick Reviews to further verify understanding.  
+  
+Either way, based on what your students had difficulty with, and based on any questions they ask, you prescriptively present information to clarify topics and enhance learning. Prescriptive lesson guides simplify doing this, but you can also prepare a prescriptive presentation for courses that don’t have prescriptive lesson guides.
+
+To determine what information to present prescriptively:
+
+1. Note any incorrect answers on knowledge reviews, quizzes, exams or quick reviews, or anything students ask you to explain or want more information about.  
+      
+    
+2. Determine the learning objectives to which the missed questions apply. For some questions, there may be more than one objective.  
+      
+    
+3. Look for the prescriptive lesson guide or lesson guides that cover the objectives, or another method for best providing the information.
+
+
+### Prescriptive elaboration
+
+#### Use Lesson Guides
+
+Prescriptive Lesson Guides are designed to help you diagnose and directly address learning gaps. The guides have explanations which are organized based on the Knowledge Reviews and quiz questions.  
+  
+With other lesson guides, find the guides that have the information for the objectives with which students need help. In Microsoft PowerPoint (and some other apps), you can customize lesson guides by adding photos or diagrams that apply to the local environment. Be careful to not alter the intended information, though.
+
+#### Show equipment
+
+The best way to explain information related to gear is to show your students, not just tell them. Equipment diagrams and pictures can help show function and variety, but interacting –touching, seeing and adjusting – with real equipment is usually more effective.
+
+#### Provide practice and application
+
+Often, the best way to understand a concept is to apply it. For example, students usually understand compass use much better and learn it faster by practicing with it rather than simply hearing about it. As much as possible, make practical application part of your elaboration and teaching.
+
+#### Be creative and innovative
+
+Creatively encourage student learning through interaction, such as by asking questions that lead to understanding.
+
+Regardless, keep in mind that all components of the introduction, body and summary that you just learned remain.
+
+
+# Confined water training
+
+## Introduction to confined water training
+
+- Confined water is a general term that refers to either a swimming pool or confined open water.
+
+- Confined open water is an open water site that offers swimming-pool-like conditions with respect to clarity, calmness and depth.
+
+Whether a pool or confined open water, to be used for training it must have water sufficiently deep and shallow enough to meet student performance requirements.
+
+To help with this, when necessary, you may introduce skills requiring water too deep in which to stand in shallower water. Later, when you have access to confined water that meets the depth requirements, complete the confined water dive by repeating the skills in water too deep in which to stand. It should take less time since you’ve already had student divers practice the skills.  
+  
+Note that in tracking student progress, the skill isn’t complete until the student demonstrates mastery while meeting all aspects of the objective, including water depth
+
+
+### Purpose of confined water training
+
+The purpose of confined water training is to allow students to develop, practice and show initial mastery of those skills in an error-tolerant environment without depth, water motion or other major open water factors influencing their learning.
+
+- Initial skill introduction in water shallow enough in which to stand reduces risk and builds comfort and confidence because students who have a problem can stand up.  
+      
+- Later, in water too deep in which to stand, student divers develop and refine foundational skills while mastering fundamental buoyancy control.
+
+### Six techniques to use make confined water training more effective
+
+1 – As much as possible, have students wear the gear they’ll wear in open water.
+2 – As much as possible, practice real diving circumstances.
+3 – Have students use proper open water procedures and habits.
+4 – Have students practice judgment calls and problem management in realistic ways based on what they’ve studied.
+5 – Have fun with it.
+6 – Remind your students they can return to confined water after certification.
+
+## Confined water planning and control
+
+#### 1 – Depths and Conditions
+
+#### 2 – Equipment
+
+#### 3 – Positioning
+
+### Site briefing
+
+#### Facility overview
+Explain where to put gear and personal items and point out restroom and shower locations and any other important details. Also cover where to find emergency equipment such as the first aid kit and emergency oxygen unit.
+
+#### Facility Rules
+Most confined water sites have basic safety guidelines and rules. Explain any rules, such as no glass in pool area, locations reserved for lifeguards, etc.
+
+#### Where to setup 
+This may be obvious, but if not, clearly explain to students where to set up their gear. For example, if there’s some distance between where you put equipment and where you will enter or exit the water, make sure students know what to do.
+
+
+
+Do everything as if you were diving in open water.
+
+With entry level students, you may have to explain how what they’re doing applies to open water. Expect to have to remind students to maintain buddy contact, secure cylinders when not worn, keep masks on and mouthpieces in, and use their BCDs for surface support. However, these should become routine with practice.  
+  
+Except emergencies that could result in injury, a good rule of thumb is to avoid doing for students what they can do for themselves.
+
+
+### Control
+
+#### Be prepared – Know what you plan to cover and the sequence in advance.
+
+- Use PADI Cue Cards for the program you’re conducting to help you organize skills flow, but be flexible.  
+      
+- Start with a plan, but be ready to adapt what you do when based on logistics and student needs.
+
+#### Communicate clearly – Let student divers know where you want them and what they should do
+
+- Be sure everyone can hear you, which can be an issue at a crowded indoor pool.  
+      
+- Be specific. For example, “Wait with the divemaster by the steps in the shallow end” rather than “wait in the water.”  
+    
+- Establish and use hand signals consistently underwater.  
+      
+- When it may not be obvious, telling students what to do when they’ve finished a skill can avoid some disorganization.
+
+
+#### Establish basic rules – Go over safety or courtesy rules that apply throughout a session.
+
+- Don’t attempt or create skills you’ve not yet been taught yet.  
+      
+    
+- Ask before getting in the water or going underwater.  
+      
+    
+- Alert me or an assistant if you reach 50 bar/500 psi, no matter what we’re doing.
+
+#### Use assistants or physical barriers to help keep students together.
+
+- With entry-level divers in particular, when reasonably possible, use physical barriers to help keep students together, such as pool corners and walls, or a jetty or pier. If you don’t have a physical barrier, a visual reference, such as a float line or line on the pool bottom, helps students monitor their position.
+
+#### Be sensitive – Think like an instructor and put yourself in your student divers’ places.
+
+- Be alert for comfort issues, such as students being too hot, too cold, thirsty, or needing restroom breaks. Remove or otherwise handle distractions or anything that can get in the way of learning.
+
+### Working with assistants
+
+Communicate – Assistants help better when they know specifically what you want from them. Those who work with you regularly learn this, but starting out, be detailed. Brief them so they know your expectations regarding their responsibilities and positioning both generally, and for each session.  
+  
+Use their eyes and ears – Assistants may see and hear things that you don’t, such as student anxieties, skill problems during free time, etc. Students sometimes feel more comfortable discussing an issue with an assistant. Ask your assistants to privately share these with you.  
+  
+Make it rewarding – Assistants who enjoy working with you tend to be more effective and available. Those who feel like they’re just lugging cylinders tend not to be.
+
+
+## Teaching motor skills
+
+In Learning, Instruction and the PADI System, you learned that people best learn a motor skill by watching the skill demonstrated, practicing it, then getting feedback about how they did accompanied by corrections, refinements, reinforcement and additional practice as appropriate.
+
+You want to show student divers a demonstration quality motor skill, which means your demonstration is slow, deliberate and emphasizes details that are important to proper execution.
+
+When directly supervising, avoid over controlling – students best learn by having latitude to make mistakes and self-correct, with you there to keep mistakes from causing harm. Also, students learn by watching each other practice, so encourage this.
+
+Feedback is informing students how well they performed the skill.
+
+Remediation and additional practice after a successful performance improves the execution and helps students retain the skill. Continue practice, remediation, and repetition until students demonstrate mastery.
+
+
+### Integrating Knowledge development
+To integrate knowledge development with skill development, remind students when and why they would use particular skills. Connect concepts they’ve learned with skills.
+
+You might say, “You learned that the most important rule is to never hold your breath. So when the regulator’s out of your mouth, we blow a small bubble stream . . .”
+
+### Correcting mistakes
+
+In confined or open water, correct and remediate mistakes and problems gently and patiently, with deliberate, calm responses.
+
+#### Be close and ready to respond.
+
+#### Let students correct themselves, if possible.
+Note that most problems are minor and self-corrected, so generally, let your students correct themselves. Only correct problems students can’t or don’t self-correct in a reasonable time, with the important exception of immediately correcting problems that could cause injury.
+
+#### Correct problems so that all students can learn by watching each other.
+
+#### Highlight correct behavior.
+
+#### Allow ample extra time to handle challenges.
+
+Sometimes the best strategy is to work one-on-one with the student. You can do this during a scheduled separate session, as part of free time, or an assistant can guide the student with you assessing mastery when ready.
+
+#### After correction, reinforce learning by having the student repeat the skill and show mastery.
+
+Reinforce learning with reminders that emphasize the corrected points. Remember that students do not move on to the next confined water dive until demonstrating mastery of all skills.
+
+### Confined water teaching techniques
+
+As an experienced diver, you already know how to perform the skills for PADI core courses. However, in preparing to teach, you may want ideas about conducting skill training or alternative techniques.  
+  
+PADI’s Guide to Teaching has specific ideas and recommendations for PADI core courses and other programs. Refer to the Guide to Teaching during instructor development, as well as before teaching a program for the first time, or periodically to refresh what you learned.
+
+If you’re teaching the PADI Rescue Diver course for the first time and want some ideas about teaching panicked diver rescue. See Rescue Exercise 2 – Panicked Diver in Rescue Diver Course Conduct and Skill Recommendations.
+
+### Buoyancy techniques
+
+#### Start with proper weighting and trim.
+Proper weighting is important because it is difficult to master buoyancy control if over or under-weighted. Habitually over weighting sometimes leads divers to think it is acceptable.
+
+#### Make neutral normal.
+Begin immediately to have students maintain a horizontal or at least a diagonal position in confined water.
+
+#### Keep students off their knees.
+Beginners still mastering buoyancy control may need bottom contact while initially learning other skills – it reduces mental task loading by eliminating the need to think about buoyancy. Rather than kneeling (which once was a common practice), have them gently rest their fin tips on the bottom in a near-neutral state.
+
+#### Adjust technique, not weight, if students say they’re too buoyant.
+To be sure, reconfirm proper weighting. When properly weighted with the BCD fully deflated, teach students to relax, which is often the issue.
+
+
+### Sequencing
+
+You’ve learned that the PADI System builds knowledge and skills from simple to complex, but you still have flexibility to accommodate logistical needs.
+
+Use common sense – you wouldn’t teach regulator recovery before you have taught regulator clearing. Similarly, you introduce many skills in water shallow enough in which to stand before practicing them deeper.
+
+- Both confined and open water dives have dive flexible skills.  
+      
+    
+- Some skills may be conducted in any dive and others may only be conducted on specific dives.  
+      
+    
+- The emergency weight drop is unique because you can conduct it on any confined or open water dive, or both.  
+      
+    
+- In confined water, a PADI certified assistant may evaluate skin diving skills for you.  
+      
+    
+- It’s common to conduct multiple confined water dives together when teaching the Open Water Diver course. You don’t have to actually exit the water between each dive, but you do have to meet all skill requirements before transitioning to the next confined water dive skills, and you do have to meet dive flexible skill requirements.  
+      
+    
+- If you combine several confined water dives in a single session, remember to cover the repetition requirements.
+
+## Developing confined water teaching presentations
+
+### Presentation elements
+
+As you learned earlier, presentations have an introduction, body and summary. For water skill presentations, we call these briefing, delivery and debriefing. There are also two other elements, the demonstration and problem solving, which fit within these three divisions.
+
+Presentation elements:
+- Briefing
+- Demonstration
+- Problem Solving
+- Control and Delivery
+- Debriefing
+
+### Briefings
+Briefings include:
+- Performance requirement
+- Value
+- Review or describe skill
+- Signals
+- Organization
+
+#### Performance requirement
+You need to tell students the performance requirement for the skill. This lets them know what they’re trying to learn to do in a measurable manner.
+
+#### Value
+Explain realistically why and when they need the skill.
+
+#### Review or describe skill
+If students are learning the skill for the first time, describe how to do it, walking through it dry as much as you can. However, as you’ll learn in the Open Water Training section, when having students apply a skill they’ve already mastered, you usually only need to review key reminders.
+
+#### Signals
+Show students signals you intend to use during the skill, and explain any other communication methods you might use, such as speaking or writing on wet notes or a slate.
+
+#### Organization
+Explain how you want things to go, including how the group will stay together, where assistants will be placed and how to watch the demonstrations. Create a picture of how things should look and take place.
+
+
+### Demonstration
+
+Demonstrate slowly and smoothly, emphasizing important details, to earn a score of 5 and clearly show students all aspects of the skill.
+
+![[Pasted image 20260216073346.png]]
+
+
+### Debriefings
+
+Debriefings include:
+- Skill reinforcement
+- Problem identification
+- Proper technique
+- Performance requirement
+- Value
