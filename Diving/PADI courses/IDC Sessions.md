@@ -360,6 +360,7 @@ Digital tools - padi app, padi aware
 4. Show on PADI app where you can find?
 5. Remind about equipment - if you have questions about eq, come talk to me
 6. Remind about course - 
+7. More where you will use it in the course in the summary
 
 
 ### Introduction
@@ -533,6 +534,271 @@ During the dive we will always be working as a team, but if you become separated
 
 Can you give me an example of how we can make ourself heard or seen underwater?x
 When we go up, what is our main concern?
+
+
+
+
+Confined water skills 2 - LPI disconnect (dive flexible skill - underwater)
+
+
+
+## KD session 2
+### Introduction
+Imagine:
+Recently, after it rained on Gili T, a drunk tourist was riding back from Jungle on his e-bike. He was heading straight toward you and only noticed you at the last moment. He swerved to the right, crashed into a row of parked bikes, and fell off his scooter.
+You immediately stopped and ran over to help him. As you approached, you saw that he was still conscious. He complained of pain in his neck and spine, but he was not bleeding.
+What would you do in this situation?
+
+Overview of the topic: If you ever encouter a person an injured person you must know how to assess a situation, what steps to take, and what exactly to do based on the diver condition. if you suspect If you suspect a spinal injury, do not attempt to remove the patient’s exposure suit, except to carefully cut it off if necessary to prevent overheating.
+
+Related to the course: During this course you will grow as a diver. You will become more aware of your environment and state of the team. You will be prepared to solve an emergecy and will be ready to act to help a person in need. To do that, we will do many practice exercises. During Rescue exercise 3 you will remove a disstressed diver from the water. Skills on how to act according to his condition will help you to help him.
+
+Where to find: In your PADI Rescue Diver e-learning Section 3 Accident Management 3 you can find more information about injury assessement and how to act accordingly.
+
+
+### Body
+If you suspect a spinal injury, do not attempt to remove the patient’s exposure suit, except to carefully cut it off if necessary to prevent overheating.
+
+If you suspect a spinal injury, should you attempt to remove the patient's exposure suit by carefully cutting it off if necessary to prevent overheating? Let's talk more about how to act if you suspect a spinal injury and what overheating can cause.
+
+In our Rescue exercise 3 you will assist a distressed diver from the boat. Your goal will be to rescue a responsive diver by towing him/her from the water to the boat using various techniques. Since the diver is responsive, you will be able to ask questions about his emergency and narrow down the cause of distress. What questions would you ask? If you will suspect that there might an injury to his spine, you will want to think of a method of getting him on the boat safely not making his condition even worse. You will need to think of a secure place where you will be sure that the diver could be fixed immobile. If the weather will be hot, you might think of how to prevent hyperthermia that can cause a heat exhaustion or even a heat stroke.
+
+Tell me, do you know how to asses the medical emergency? What information you will need to gather, what questions will you need to ask the victim in order the communicate with Emergency medical care? Here at blue marlin we teach EFR course, where you learn how to provide Primary care to handle life-threataning emergencies by doing CPR and even using defiblilator to bring a victim back to life. And secondary care to handle non life-thretaning injuries.
+
+Whenever you encounter a distressed diver in the water you will want the help to arrive as soon as possible. In our shop we have a new dive computer with a messaging function, you will be able to tell the boat about the emergency even from underwater. And if you will ever need a cutting device, to get out of entaglement, or to even cut someones gear in case of emergency we have a variety of cutting devices in our shop, from ceramic line cutters that never rust to fill sized diving knives.
+
+### Summary
+
+This rescue course is all about learning on how to react to emergencies in the water and how to treat people in need. During all of our rescue exercises you will encounter a troubled diver, but on the dive 3 you will bring a distressed diver back on the boat or a shore, knowing what caused the distress and how to treat it will greatly improve victim's survuival chances.
+
+So, If you suspect a spinal injury, do not attempt to remove the patient’s exposure suit, except to carefully cut it off if necessary to prevent overheating.
+
+If you have a question on how the EFR course is strucutred, what you will learn there and how to enroll and or about how the communication functionality of the Garmin computer works please come to me after the course
+
+
+
+### Confined water dive 2
+
+Disconnect Low-Pressure Inflator Hose – Have
+student divers disconnect the low-pressure hose from
+the inflator in shallow water
+
+Skill: Our skill for today will be disconnecting low-pressure inflator hose.
+Performance requirement: Disconnect the low pressure inflator hose from the inflator in shallow water.
+
+Value: Equipment can malfunction sometimes. Especially salt water can cause some parts of our diving gear to stuck. If your inflator button will ever get stuck underwater, the BCD will keep inflating, this will cause a disturbance in your bouyancy and start lifting you up. Knowing how stop this from happening will prevent greater problems.
+
+
+
+### Risk management
+
+The most often reason for death underwater is heart attack. 
+
+1. Standards
+2. Documnetation
+3. Insurance
+4. Good judgement
+
+
+There are different levels of laws. None in Honduras, a lot in Indonesia.
+
+To get more about the laws.
+
+1. Ask local community
+2. Go to PADI
+
+
+
+
+
+
+
+
+KD 3: question 7
+
+### Introduction
+A good position for you when assisting an instructor with
+student divers in the water, is one that allows
+ student divers to quickly alert you, if necessary.
+ you to see the entire group and the instructor.
+ you to respond quickly to problems.
+ All of the above.
+
+Contact: Are you all drivers? What are you doing when you sit in a car after someone else was driving it before you? Right, you are adjusting the seat, so you can reach the steering wheel to be able to control the car. You adjust the rearview mirrors so you can see all the traffic around you. You do that because you want to have control while driving. 
+
+Now you are becoming divemasters. You are learning how to help instructors in teaching proccess. When Teaching divers, especially new divers, a good position for you when a assisting an instructor with student divers in the water is one that allows you to see the entire group and the instructor, allows student divers to quickly alert you, if necessary and gives you the opportunity to respond quickly to the problems.
+
+During your traineeship you will assist an instructor with teaching DSDs. In a pool session you will discover that positioning yourself in a right place is very important aspect of teaching process.
+
+More information you can find in your PADI Divemaster E-learning, section Supervising Diving activities goes into detail about planning, communication, vantage points and problem recognition during supervision.
+
+### Body
+
+So, A good position for you when assisting an instructor with
+student divers in the water, is one that allows
+ student divers to quickly alert you, if necessary.
+ you to see the entire group and the instructor.
+ you to respond quickly to problems.
+
+What does positioning yourself in teaching process even mean and why do we care about it so much?
+
+[Draw BM pool]
+As I said before during the traineeship you will be a part of DSD program conducted by one of our instructors. After the divers listen the theory session about diving physics, physiology and equipment, they will be ready to enter the pool. For this part of their experience you will be assisting an instructor with teaching skills and mainly ensuring the safety of the new divers underwater. Some people who try their first dives with us are non swimmers and being in water and especially underwater can be very challenging for them in their first minutes. In the pool we are doing 3 skills: Reg clearing, Recovery and partial mask clearing. Just imagine that you have never been underwater before and now someone is asking you to remove the only source of air from your mouth. People may feel overwhelemed and may do mistakes during these exercises. And because of that you must at all times be able to monitor their activity, respond to their actions, help and solve their issues so the divers can safe and comfortable. Communicating these issues and receiving commands from your instructor is crucial during these exercises, as instructor will be organizing the entire proccess and will need you help at any time.
+
+Assisting DSDs is just one small part of your divemaster traineeship, you will also participate in Open Water courses, Rescue, Advanced and some specialities. Before each dive or a course you and your instructor will disccus the plan for the upcoming dives and their objectives. If you will try to keep the entire plan in your head you will only make it harder for yourself underwater. A wrist slate, where you can write a plan for the dive is a really nice addition to your equipment. Not only it allows you to put crucial information on your wrist buy also to write a note underwater if you need to communicate a complex sentence.
+
+Becoming a divemaster is your first step into your diving career. You will become responsible for guiding groups of divers, assist instructors in teaching and help the dive center to operate. But why stop there? Becoming instructor will give you so much more opportunities to grow as a diver. You will be able to share your passion and knowledge of diving with people, who have never been diving before. You will teach already certified divers on how to become an even more better diver. And of course you will get a bump in your paycheck)))))))
+
+### Summary
+
+Divemaster course is the start of your diving career. Here you are learning how to take care of other divers underwater and how to make their learning process safter, more enjoyable and organized. An important part of this course is to learn how can you control the situation underwater and be able to solve any issue that student or your instructor may have. 
+
+So, A good position for you when assisting an instructor with
+student divers in the water, is one that allows
+ student divers to quickly alert you, if necessary.
+ you to see the entire group and the instructor.
+ you to respond quickly to problems.
+
+If you have any questions on where to get a wrist slate for yourself or how to become PADI instructor, you can come to me after the session.
+
+
+
+
+
+# Course standards
+
+### Open water
+
+- Knowledge segments
+- Video
+
+12 year old - 18 meter dive
+11 year old - 12 meters max
+
+Excursion dives - they are just there for extra dive time. Diving can take some time to become comfortable. 
+
+Your location affects the scheduling the most. If you are 4 hours away from the dive site, you won't be able to go back to the pool
+
+
+knowledge 1 -3 -> confined water dive 2+3 
+
+
+Scheduling
+
+think of the time required for each session
+Think about logistics
+Orientation session
+
+Have a backup time
+
+
+Day 0
+
+Do a learning - at least section 1-3
+
+==No e-learning==
+
+Day 1
+
+==DSD briefing==
+Confined water 1-3 (1-2) in the morning
+Open water dive 1 in the afternoon
+
+4-5
+==1-3==
+
+Day 2
+confined 4-5
+Open water 2
+
+==4-5==
+
+Day 3
+Open water 3
+Open water 4
+
+Talk into advanced
+
+
+
+Day 0
+e-learning - 1-3
+
+Day 1
+
+Come to the dive center at 7:30 am.
+Dive center orientation - 15 minutes.
+Knowledge review - 30 min 8:15
+
+Equipment assembly - 9:00
+
+Confined water dives 1-3. End at 11:30
+open water float 11:50
+
+Lunch till 12:30
+
+12:30 prepare for dive
+
+1:30 - two dives
+
+read chapter 4-5
+
+Day 2
+
+come to dive center 
+
+confined 4-5
+
+
+## Continuing Education
+
+
+## Open water - workshop presentation
+
+Only showing parts that they have done wrong, or the skills they haven't done before, like DSMB
+
+environment is a part of the exercise - should be mentioned in the description of the exercise.
+
+Open water presentations - Teaching 2 skills
+
+Combine two exercises in one
+
+
+
+Hey, I'm .... today we will be doing 2 exercises
+
+Performance req 1 - read from an open water slate!!!!
+Value 1
+
+Performance req 2
+Value 2
+
+Start saying that there will be 2 skills - we will do 2 skills
+
+
+Skill 1 signals - skill signal, signals to end the skill.
+Skill 1 Review - more compact, they already know how to do it in the pool. Mention how this exercise is related to the open water environment.
+Skill 1 Organization - where you will be, where they will be, where the dm will be
+
+Skill 2 signals...
+Skill 2  Review.
+Skill 2 Organization
+
+
+CESA has it's own briefing, instructor manual has CESA page which you should use in review part of the briefing. 
+
+
+Keep the debriefing separate - debrief the first exercise
+
+Same group
+
+1. Matvei - Misha dm - 5 point descent o.w 2  / Mask removal/rr ow3
+2. Becky - DM Matvei - compass + hover oral
+3. Ollie - Partial flood + Cesa
+4. Misha - DM Ollie - Reg recovery Ow1 + AAS Stationary Ow2
+
+Briefing 7:45
+
 
 
 
