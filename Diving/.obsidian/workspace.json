@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PADI courses/NITROX instructor.md",
+                "file": "PADI courses/IDC Sessions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NITROX instructor"
+              "title": "IDC Sessions"
+            }
+          },
+          {
+            "id": "c5cd719241b3c8e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PADI courses/EFRI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EFRI"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 200
   },
   "right": {
     "id": "27f33e6263677cd3",
@@ -169,17 +184,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "07976b028abfafb3",
+  "active": "ead0f1ea627dce7a",
   "lastOpenFiles": [
     "PADI courses/IDC Sessions.md",
-    "PADI courses/NITROX instructor.md",
+    "PADI courses/EFRI.md",
     "PADI courses/IDC.md",
+    "Untitled.canvas",
+    "Untitled.base",
     "Pasted image 20260220080448.png",
     "Pasted image 20260216073346.png",
-    "Untitled.canvas",
+    "Tags/TDI Extended Range review questions.md",
+    "PADI courses/NITROX instructor.md",
+    "TDI courses/TDI Decompression Procedures.md",
+    "TDI courses/TDI - Advanced Nitrox.md",
+    "Tags/Formula.md",
+    "Tags/Gas Laws and physiology.md",
     "PADI standards.md",
     "Images/Pasted image 20260212102147.png",
-    "Untitled.base",
     "Untitled",
     "Images/Pasted image 20260212101732.png",
     "Images/Pasted image 20260212100042.png",
@@ -192,13 +213,8 @@
     "PADI courses",
     "Tags/Technical diving definition.md",
     "TDI courses/TDI - Extended Range.md",
-    "TDI courses/TDI Decompression Procedures.md",
     "Tags/Skills.md",
-    "Tags/TDI Extended Range review questions.md",
-    "Tags/Gas Laws and physiology.md",
-    "Tags/Formula.md",
     "Tags/Advanced Nitrox Review questions.md",
-    "TDI courses/TDI - Advanced Nitrox.md",
     "Tags/Decompression Procedures Review questions.md",
     "Tags/Key concept.md",
     "Tags/Famous people in Diving.md",
