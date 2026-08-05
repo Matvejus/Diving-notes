@@ -802,3 +802,152 @@ Briefing 7:45
 
 
 
+
+
+# Confined water skill - share alternate air source
+
+Skill: Today you will practice supplying air to another diver
+Performance requirement: Supply air to another diver using an alternate air
+source.
+Value: If you ever encounter a diver in need of air underwater, you must know how to use your alternate air source. You must practice locating it, deploying and making contact with the diver in need.
+
+Surface demonstration: A diver in need of air will show a signal for out of air: "From shoulder to shoulder". When you see this sign, you must immideately locate your altnernate air source, deploy it making sure the alternate hose is over your shoulder and hold the alternate on the hose, not on the regulator itself. Make sure the alternate is rotated correctly. Provide the alternate to you buddy, make contact. Ask if everything is okay and prepare to surface by extending your inflator hose.
+
+Organization (2 students): You will be along the wall. Remember that your alternate is on you right side. I will always be on the right side of the hero to help with your octopus, so after you complete the exercise I will ask you to switch positions. I will be next to the person who donates and my divemaster will always be next to the person out of air
+
+Possible mistakes:
+Didn't react to signs
+Didn't get the alternate
+Alternate hose under the arm
+Alternate is turned around
+Holding the reg, not the hose
+Didn't make contact
+Didn't ask if the receiver is ok
+
+Positive reinforcement: what went really good
+What problems occured
+How to fix these problems
+Performance requirement: Supply air to another diver using an alternate air
+source.
+Value: If you ever encounter a diver in need of air underwater, you must know how to use your alternate air source. You must practice locating it, deploying and making contact with the diver in need.
+
+# Teaching presentations - fish ID question 8.
+
+Introduction:
+
+Real life scenario: Are there any foodies here? Do you guys like to explore the cusine and know all the available options? Image You arrive on Lombok and want to discover the local cousine. Would you just decide to go straight to mcdonalds and order what you always order? No, you will probable look around on google maps for local restaurants searching for reviews. You will walk around the town where you are, checking the menus of different restaurants to find out what is available and where people go. You will explore the local area to get as much information as possible.
+
+Connect to the topic and give the correct answer: The roving survey technique, is a method that allows you to explore the entire marine habitat during your planned dive. So no, during roving survey you don't follow a strict search pattern and only identify fish that appear directly in front of you on your planned path, you move freely. On our fish identification dive 2, you will plan the dive and the survey strategy yourself, you might want to consider this method in your planning.
+
+In section 2, chapter 4 of your Padi Fish id e-learning you can find more information about surveys you can use during of fish identification course.
+
+Body: 
+The roving diver survey technique means that you follow a strict search pattern and
+only identify fish that appear directly in front of you on your planned path.
+
+As I said before on your fish id dive number 2 you will plan the strategy for surveying the dive area. You will need to Demonstrate your ability to independently plan and execute a fish identification dive to include recording fish families, species, abundance and habitat information and drawing diagrams of unfamiliar fish. For this dive we will go to Halik (Draw  Halik). If you were to use a strict survey method going straight line, you will. Remember your max dive depth will be 18 meters.
+
+
+summary:
+1. Apply to the current course (can use the same references)
+2. Repeat objective/Read question
+3. Repeat overview/Read answer - word to word (exactly what you have said before)
+4. Show on PADI app where you can find?
+5. Remind about equipment - if you have questions about eq, come talk to me
+6. Remind about course - 
+7. More where you will use it in the course in the summary
+
+
+#### Introduction
+1. Contact/non diving example related to the topic
+2. Overview of the topic - connect to the topic and give the correct answer
+3. Applying this to the course - value (why we need that) - find a specific reference in the course and tell it
+4. Where in their own materials they can find the answer to the question - e-learning/printed material (have it with you/open so the students can see it)
+5. Interaction - make more interaction.
+
+#### Body
+1. Objective - read out the question - exact question
+	1. Scope - related to the question
+2. Local environment - depends on the level of the course. How it related to the objective and question.
+3. Apply to current course - give examples on how the knowledge will be used on the current course. Where on the coures the information will be used. EX: Descend and equalize
+	1. Explain the dive site we will go. How the skills will be used on a particular dive
+4. Sell equipment - related equipment to the course (Mask/SMB/Computer/PPB)
+5. Sell continuation: PPB or Drift, course related to their experience
+
+#### Summary (couple of minutes max)
+1. Apply to the current course (can use the same references)
+2. Repeat objective/Read question
+3. Repeat overview/Read answer - word to word (exactly what you have said before)
+4. Show on PADI app where you can find?
+5. Remind about equipment - if you have questions about eq, come talk to me
+6. Remind about course - 
+7. More where you will use it in the course in the summary
+
+
+
+KD Exam
+
+Introduction:
+
+Contact: Have you ever been on a plane? Probably you have since you are sitting here. Before every flight
+
+
+It is important to have emergency oxygen available for
+divers suspected of having decompression sickness, lung
+overexpansion injuries or near drowning.
+
+Introduction
+
+Contact: Do you guys love camping and hiking? Imagine, the weather forecast for the upcoming week is amazing, you and your friends are planning to go hike the Rinjani mountain, which will take you a couple of days. What would you take with you? Would you take an umbrella or poncho with you even if you know that the weather will be fantastic?
+
+Overview: Same in diving. We want things to go according to plan, but we must always be prepared for the worst case scenarios and be able to react accordingly. Oxygen equipment is an essential part of diving, as it is the most important first step in providing care in diving related incident. 
+
+During Rescue Training Exercise Nine, you’ll get a chance to work with emergency oxygen equipment and practice providing it.
+
+Where to find: In your Rescue e-learning section 5 Being prepared for a diver emergency 5 you can find why administering emergency oxygen to a diver with suspected decompression illness is crucial, six procedures to follow when handling oxygen and how to administer oxygen. Also in you rescue e-learning you can find diving Accident management.
+
+Body:
+
+I will read the question once again. It is important to have emergency oxygen available for divers suspected of having decompression sickness, lung overexpansion injuries or near drowning.
+
+Any pressure related injury in diving is called barotrauma which refers to tissue damage caused by rapid changes in pressure. In diving we have a term Decompression Ileness or DCI, which is an umbrella for Injuries related with Lung overexpansion and Decompression sickness
+
+Lung overexpansion happens when divers don't follow the rule number 1 in diving holding their breath. On an ascent air expands in our lungs, which can increase only so much. If lungs are overinlfated. Air leaks into the chest cavity, potentially causing serious issues. We have 4 types of lung ovexpasion injuries: Mediastinal - causing pressure and chest discomfort. Subcutaneous - when air moves under the skin, usually around the neck or chest. Pneumatorax - lung collapses and cannot fully expand, so breathing becomes difficult. And the most dangerous one - Arterial gas embolism - air bubbles travel to the brain or heart and block blood flow. During lung overexpansion lung performance is greatly reduced and administering oxygen is the best way to supply body with oxygen
+
+Decompression sickness is caused in great difference between ambient pressure and nitrogen dissolved in our tissues. Administering oxygen removes oxygen from our body to the higher pressure gradient.
+
+During rescue exercise 9 you will administer Oxygen to a Breathing, Unresponsive Diver and to a Nonbreathing diver. You find out more about where in Blue Marlin we store oxygen, where you can find on the boat and procedures you need to follow in specific cases.
+
+Pocket mask -
+Padi Emergency Oxygen Provider prepares you to offer aid and teaches you to recognize scuba diving injuries and illnesses requiring emergency oxygen. This is an excellent course for scuba divers, boat crew, lifeguards, freedivers, mermaids or anyone who spends time in and around water. No age restrictions or water sessions required.
+
+
+Summary:
+
+So remember, It is important to have emergency oxygen available for divers suspected of having decompression sickness, lung overexpansion injuries or near drowning.
+
+
+#### Introduction
+1. Contact/non diving example related to the topic
+2. Overview of the topic - connect to the topic and give the correct answer
+3. Applying this to the course - value (why we need that) - find a specific reference in the course and tell it
+4. Where in their own materials they can find the answer to the question - e-learning/printed material (have it with you/open so the students can see it)
+5. Interaction - make more interaction.
+
+#### Body
+1. Objective - read out the question - exact question
+	1. Scope - related to the question
+2. Local environment - depends on the level of the course. How it related to the objective and question.
+3. Apply to current course - give examples on how the knowledge will be used on the current course. Where on the coures the information will be used. EX: Descend and equalize
+	1. Explain the dive site we will go. How the skills will be used on a particular dive
+4. Sell equipment - related equipment to the course (Mask/SMB/Computer/PPB)
+5. Sell continuation: PPB or Drift, course related to their experience
+
+#### Summary (couple of minutes max)
+1. Apply to the current course (can use the same references)
+2. Repeat objective/Read question
+3. Repeat overview/Read answer - word to word (exactly what you have said before)
+4. Show on PADI app where you can find?
+5. Remind about equipment - if you have questions about eq, come talk to me
+6. Remind about course - 
+7. More where you will use it in the course in the summary

@@ -1,0 +1,18 @@
+{
+  "remove-newlines:remove-newlines-from-selection": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "remove-newlines:paste-without-newlines": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": " "
+    }
+  ]
+}
